@@ -24,7 +24,7 @@ on:
         default: '6.6'
       KERNEL_NAME:
         description: "修改内核名称"
-        required: true
+        required: false
         default: 'Ace5Pro-SukiSU'
       kernelsu_variant:
         description: "选择 KSU"
